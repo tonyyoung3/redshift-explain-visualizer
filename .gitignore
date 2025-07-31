@@ -8,6 +8,7 @@
 
 # Production
 /build
+/public/static/
 
 # Firebase
 .firebase/
